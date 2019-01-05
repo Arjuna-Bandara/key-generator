@@ -2,6 +2,8 @@
 html and js tool to generate passwords. 
 
 #function for generating random passwords
+
+
     function makeid() {
         var text = "";
 
